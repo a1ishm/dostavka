@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="71bb65d5-99c8-4698-9c0f-c7072ae9cf6c" name="bot1" url="http://domain1864238.ru">
+        <fileTransfer rootFolder="/domain1864238.ru/htdocs/www/bots/3" host="domain1864238.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
